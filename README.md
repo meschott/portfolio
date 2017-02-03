@@ -4,7 +4,4 @@ This directory contains an example of my work in science and programming. It con
 
 2. Plots and scripts from a scientific algorithms class. One from the ising model chapter, one from the bose einstein condensates, and one from the traveling salesman
 
-3. I will also add my Real Estate Calculator program
-
-4. Any programs from CAAM 420?
 
